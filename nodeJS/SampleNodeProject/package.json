@@ -1,0 +1,18 @@
+{
+  "name": "npm-codevolution",
+  "version": "1.0.0",
+  "description": "sample node project with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vishnu",
+    "codevolution"
+  ],
+  "author": "vishnu",
+  "license": "ISC",
+  "dependencies": {
+    "text-upper-case": "^1.0.2"
+  }
+}

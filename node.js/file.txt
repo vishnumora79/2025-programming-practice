@@ -1,8 +1,0 @@
-Hello Viswas, thank you for teaching
-
-1. Where the Video is Resided
-YouTube videos are stored on distributed servers owned and operated by Google. These servers are part of Google's Content Delivery Network (CDN), which ensures fast and efficient delivery of content worldwide.
-
-How It Works:
-Original Upload: When a user uploads a video to YouTube, it is stored on YouTube's servers. The video is transcoded into multiple formats and resolutions (e.g., 144p, 720p, 1080p, etc.) to support different devices and internet speeds.
-Content Delivery Network (CDN): YouTube uses CDNs to cache copies of videos closer to users. A CDN is a network of servers distributed geographically to reduce latency and improve load times.
